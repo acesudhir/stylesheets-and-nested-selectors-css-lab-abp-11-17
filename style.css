@@ -27,3 +27,6 @@ nav ul li {
             display: inline;
             margin-right: 10px;
           }
+nav a {
+        padding:12px;
+}
